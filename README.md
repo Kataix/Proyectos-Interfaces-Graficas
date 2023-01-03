@@ -27,18 +27,18 @@ Se debe crear una carpeta que contenga los recursos necesarios para los ejercici
 
 Figura0 
 ![figura0](https://user-images.githubusercontent.com/43975051/210419371-f1c92efe-8121-48e6-9c69-2f33cfd83095.png)
-
-![figura1](https://user-images.githubusercontent.com/43975051/210419377-4c6c7f9c-9562-4609-80f4-e81dd2fac0a6.png)
 Figura1
-![figura2](https://user-images.githubusercontent.com/43975051/210419378-7cea7ab3-2ef4-48b3-ab6d-c110cce3a276.png)
+![figura1](https://user-images.githubusercontent.com/43975051/210419377-4c6c7f9c-9562-4609-80f4-e81dd2fac0a6.png)
 Figura2
-![figura3](https://user-images.githubusercontent.com/43975051/210419381-7b32f77f-fad1-468d-9200-5200bb50cdd5.png)
+![figura2](https://user-images.githubusercontent.com/43975051/210419378-7cea7ab3-2ef4-48b3-ab6d-c110cce3a276.png)
 Figura3
-![plantilla0](https://user-images.githubusercontent.com/43975051/210419383-d7bb7762-6a08-4c17-aa3d-6fba107cbe01.png)
+![figura3](https://user-images.githubusercontent.com/43975051/210419381-7b32f77f-fad1-468d-9200-5200bb50cdd5.png)
 Plantilla0
-![plantilla1](https://user-images.githubusercontent.com/43975051/210419387-5f528eb8-b3b6-4026-af89-3d8d57bea8f5.png)
+![plantilla0](https://user-images.githubusercontent.com/43975051/210419383-d7bb7762-6a08-4c17-aa3d-6fba107cbe01.png)
 Plantilla1
-![plantilla2](https://user-images.githubusercontent.com/43975051/210419388-0741331c-71a8-4246-843d-3f2fd3bbf1da.png)
+![plantilla1](https://user-images.githubusercontent.com/43975051/210419387-5f528eb8-b3b6-4026-af89-3d8d57bea8f5.png)
 Plantilla2
-![plantilla3](https://user-images.githubusercontent.com/43975051/210419389-0cc3aa1a-3c5f-4f0e-aaee-12dfa7d51104.png)
+![plantilla2](https://user-images.githubusercontent.com/43975051/210419388-0741331c-71a8-4246-843d-3f2fd3bbf1da.png)
 Plantilla3
+![plantilla3](https://user-images.githubusercontent.com/43975051/210419389-0cc3aa1a-3c5f-4f0e-aaee-12dfa7d51104.png)
+
