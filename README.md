@@ -25,8 +25,9 @@ polinomio con sus coeficientes. (proyecto2.6.py)
 
 Se debe crear una carpeta que contenga los recursos necesarios para los ejercicios. Llamé la carpeta en cuestión con el nombre "trash". Ésta contiene las siguientes imagenes: 
 
+Figura0 
 ![figura0](https://user-images.githubusercontent.com/43975051/210419371-f1c92efe-8121-48e6-9c69-2f33cfd83095.png)
-Figura0 //
+
 ![figura1](https://user-images.githubusercontent.com/43975051/210419377-4c6c7f9c-9562-4609-80f4-e81dd2fac0a6.png)
 Figura1
 ![figura2](https://user-images.githubusercontent.com/43975051/210419378-7cea7ab3-2ef4-48b3-ab6d-c110cce3a276.png)
