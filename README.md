@@ -23,7 +23,7 @@ polinomio con sus coeficientes. (proyecto2.6.py)
 
 
 
-Se debe crear una carpeta que contenga los recursos necesarios para los ejercicios. Llamé la carpeta en cuestión con el nombre "trash". Ésta contiene las siguientes imagenes: 
+Se debe crear una carpeta que contenga los recursos necesarios para los ejercicios. Llamé la carpeta en cuestión con el nombre "trash". Esta contiene las siguientes imagenes: 
 
 Figura0 
 ![figura0](https://user-images.githubusercontent.com/43975051/210419371-f1c92efe-8121-48e6-9c69-2f33cfd83095.png)
