@@ -42,5 +42,6 @@ Plantilla2
 Plantilla3
 ![plantilla3](https://user-images.githubusercontent.com/43975051/210419389-0cc3aa1a-3c5f-4f0e-aaee-12dfa7d51104.png)
 
-
+Informe final
+[Informe proyecto #2 - INFO1128 Ssaez.pdf](https://github.com/Kataix/Proyectos-Interfaces-Graficas/files/10338958/Informe.proyecto.2.-.INFO1128.Ssaez.pdf)
 
