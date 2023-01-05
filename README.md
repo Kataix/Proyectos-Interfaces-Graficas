@@ -26,21 +26,21 @@ polinomio con sus coeficientes. (proyecto2.6.py)
 Se debe crear una carpeta que contenga los recursos necesarios para los ejercicios. Llamé la carpeta en cuestión con el nombre "trash". Esta contiene las siguientes imagenes: 
 
 Figura0 
-![figura0](https://user-images.githubusercontent.com/43975051/210419371-f1c92efe-8121-48e6-9c69-2f33cfd83095.png)
+![figura0](https://user-images.githubusercontent.com/43975051/210419371-f1c92efe-8121-48e6-9c69-2f33cfd83095.png) </br>
 Figura1
-![figura1](https://user-images.githubusercontent.com/43975051/210419377-4c6c7f9c-9562-4609-80f4-e81dd2fac0a6.png)
+![figura1](https://user-images.githubusercontent.com/43975051/210419377-4c6c7f9c-9562-4609-80f4-e81dd2fac0a6.png) </br>
 Figura2
-![figura2](https://user-images.githubusercontent.com/43975051/210419378-7cea7ab3-2ef4-48b3-ab6d-c110cce3a276.png)
+![figura2](https://user-images.githubusercontent.com/43975051/210419378-7cea7ab3-2ef4-48b3-ab6d-c110cce3a276.png) </br>
 Figura3
-![figura3](https://user-images.githubusercontent.com/43975051/210419381-7b32f77f-fad1-468d-9200-5200bb50cdd5.png)
+![figura3](https://user-images.githubusercontent.com/43975051/210419381-7b32f77f-fad1-468d-9200-5200bb50cdd5.png) </br>
 Plantilla0
-![plantilla0](https://user-images.githubusercontent.com/43975051/210419383-d7bb7762-6a08-4c17-aa3d-6fba107cbe01.png)
+![plantilla0](https://user-images.githubusercontent.com/43975051/210419383-d7bb7762-6a08-4c17-aa3d-6fba107cbe01.png) </br>
 Plantilla1
-![plantilla1](https://user-images.githubusercontent.com/43975051/210419387-5f528eb8-b3b6-4026-af89-3d8d57bea8f5.png)
+![plantilla1](https://user-images.githubusercontent.com/43975051/210419387-5f528eb8-b3b6-4026-af89-3d8d57bea8f5.png) </br>
 Plantilla2
-![plantilla2](https://user-images.githubusercontent.com/43975051/210419388-0741331c-71a8-4246-843d-3f2fd3bbf1da.png)
+![plantilla2](https://user-images.githubusercontent.com/43975051/210419388-0741331c-71a8-4246-843d-3f2fd3bbf1da.png) </br>
 Plantilla3
-![plantilla3](https://user-images.githubusercontent.com/43975051/210419389-0cc3aa1a-3c5f-4f0e-aaee-12dfa7d51104.png)
+![plantilla3](https://user-images.githubusercontent.com/43975051/210419389-0cc3aa1a-3c5f-4f0e-aaee-12dfa7d51104.png) </br>
 
 Informe final
 [Informe proyecto #2 - INFO1128 Ssaez.pdf](https://github.com/Kataix/Proyectos-Interfaces-Graficas/files/10338958/Informe.proyecto.2.-.INFO1128.Ssaez.pdf)
